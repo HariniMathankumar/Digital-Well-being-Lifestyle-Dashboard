@@ -1,4 +1,4 @@
-# Digital Well-being & Lifestyle Dashboard | 
+# Digital Well-being & Lifestyle Dashboard | <a href="https://github.com/HariniMathankumar/Digital-Well-being-Lifestyle-Dashboard/blob/main/Screenshot%202025-08-07%20200201.png">Take a look</a>
 
 This Excel-based dashboard visualizes key lifestyle metrics such as daily screen time, sleep duration, academic performance, and anxiety levels. It is designed to help users understand how digital habits impact overall well-being.
 
